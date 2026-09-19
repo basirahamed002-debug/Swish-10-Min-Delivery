@@ -8,7 +8,7 @@ The workbook simulates a live ops control center: a single raw order log feeds e
 sheet automatically, so the whole dashboard recalculates the moment new orders are logged —
 no manual copy-pasting, no static numbers.
 
-*(Full PDF snapshot: `Swish_Executive_Dashboard.pdf`)*
+*(Full PDF snapshot: `Swish_10Min_Delivery_Ops_Dashboard.pdf`)*
 
 ## What this demonstrates
 
@@ -56,4 +56,4 @@ work used in live-ops and command-center environments.
 ## Files in this repo
 
 - `Swish_10Min_Delivery_Ops_Dashboard.xlsx` — the workbook.
-- `Swish_Executive_Dashboard.pdf` — a PDF snapshot of the Executive Dashboard tab.
+- `Swish_10Min_Delivery_Ops_Dashboard.pdf` — a PDF snapshot of the Executive Dashboard tab.
